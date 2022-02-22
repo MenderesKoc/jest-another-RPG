@@ -10,7 +10,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^7.0.3",
-    "jest": "^24.9.0"
-  }
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MenderesKoc/jest-another-RPG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MenderesKoc/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/MenderesKoc/jest-another-RPG#readme"
 }
